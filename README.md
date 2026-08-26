@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Sonoxo fork status — upstream project**
+>
+> This repository is a Sonoxo-owned fork used for compatibility and integration experiments. The original project is maintained by [Cline contributors](https://github.com/cline/cline); its branding, documentation, licenses, releases, and support channels remain upstream. Sonoxo does **not** claim authorship, official affiliation, endorsement, or that this fork is currently synchronized, tested, or production-ready. Check the [canonical repository](https://github.com/cline/cline) before installing or contributing.
+
+---
+
 <p align="center">
   <img src="assets/icons/icon.png" width="80" alt="Cline" />
 </p>
